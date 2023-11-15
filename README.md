@@ -9,8 +9,8 @@ lista ordenada
 2. adios
 
 listas desordenadas
--hla
--adios
+- hla
+- adios
     1. bye
     2. byebye
 * messi
